@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "f88518743774295e",
+    "type": "split",
+    "children": [
+      {
+        "id": "23bf3ccb7f3bf511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c19e24dcd174a93",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "232327e33bdc7d56",
+    "type": "split",
+    "children": [
+      {
+        "id": "12bb2e3e8f60f5c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f4d9f4f2d6d0b5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1dea002a2303ecd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d32f29d5bf4cda9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "27488b2dc830007c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0b70d4bb21da91c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59aa875509aaa791",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a4361f39a623878",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1c5d155d35cb2c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "31c0772ee7937e6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5c19e24dcd174a93",
+  "lastOpenFiles": [
+    "1 уровень OSI.md",
+    "7ми УРОВНЕВАЯ МОДЕЛЬ OSI.md",
+    "2 уровень OSI.md",
+    "мосты.md",
+    "коммутаторы.md",
+    "Pasted image 20241002164727.png",
+    "руководство по obsidian.md",
+    "2023-11-08 настройка сканера по батнику.md",
+    "2023-11-03 ЕГАИС.md",
+    "2023-11-03 1.5 Года работы Системным Администратором  Что это такое, и как им стать.md",
+    "я не гений и нужно учиться. набираться опыта, я в самом низу нахожусь. Но и я не настолько взрослый чтобы сожалеть об этом, так что набирайся опыта и развивайся.md",
+    "Pasted image 20231103130301.png",
+    "Pasted image 20231103125753.png",
+    "2023-12-08.md",
+    "если не проходят бутылка  и нужно сделать возврат.md",
+    "2023-11-10 мармит.md",
+    "2023-12-07 (САМООБУЧЕНИЕ) ЧТО ТАКОЕ МАСКА ПОДСЕТИ.md",
+    "Untitled.canvas"
+  ]
+}
